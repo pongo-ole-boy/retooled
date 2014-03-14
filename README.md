@@ -2,13 +2,13 @@ retooled
 ========
 
 Shapeoko Retooled is a studio project at the Illinos Institute of Technology College of Architecture.
-Find more info at retooled.tumblr.com
+<br>Find more info at retooled.tumblr.com
 
 Project Members: 
-Aaron Mikottis
-Alex Pisconski
-Angelika Goglowski
+<br>Aaron Mikottis
+<br>Alex Pisconski
+<br>Angelika Goglowski
 
 Studio Professor:
-Brett Balogh
+<br>Brett Balogh
 
